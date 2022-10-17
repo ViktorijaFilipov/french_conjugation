@@ -11,4 +11,4 @@ To run project:
 
 To change console output, comment/uncomment functions on the lines 114 - 119. 
 
-To conjugate female form of the verbs, pass parameter `true` to functions on the lines 114 - 119.
+To conjugate female form of the verbs, pass parameter `true` to functions on the lines 114 - 119 (example: `indicatif(verb, true);`)
