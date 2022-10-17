@@ -1,0 +1,15 @@
+{
+  "name": "french_conjugation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "conjugate": "node conjugate.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "conjugation-fr": "^0.3.3",
+    "fs": "^0.0.1-security"
+  }
+}
